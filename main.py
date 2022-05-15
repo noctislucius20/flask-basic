@@ -1,5 +1,3 @@
-from distutils.log import debug
-from sys import api_version
 from website import create_app
 
 app = create_app()
